@@ -1,6 +1,6 @@
 # Программа из имеющегося массива строк создает новый массив, который содержит те элементы из имеющегося массива, длина которых меньше или равна трем.
  Решение: 
- 1. вначале заданы массивы строк:
+ 1. вначале заданы массивы строк:  
  phrases_list1 = ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo", "Libra", "Scorpio", "Sagittarius", "Capricorn", "Aquarius", "Pisces"]  
  phrases_list2 = ["diamond", "opal", "sapphire", "jade", "ob", "si", "di", "an", "moonstone"]  
  phrases_list3 = ["12345", "7890", "123", "22", "33"]  
